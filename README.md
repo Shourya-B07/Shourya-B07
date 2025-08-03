@@ -13,13 +13,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shourya-B07.Shourya-B07&"  />
-</div>
-
-###
 
 <h1 align="center">Hi 👋, I'm Shourya Bhardwaj</h1>
 
