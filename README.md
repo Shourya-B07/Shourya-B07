@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm a Full-Stack developer<br><br>- 📚 I'm currently learning DevOps<br>- 📫 How to reach me shouryabhardwaj7@gmail.com</p>
+<p align="left">I'm a Full-Stack developer<br><br>- 📚 Actively sharpening my DSA skills and exploring DevOps & scalable systems.<br>- 📫 How to reach me shouryabhardwaj7@gmail.com</p>
 
 ###
 
